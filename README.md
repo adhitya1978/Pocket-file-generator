@@ -1,6 +1,6 @@
 # Pocket-file-generator
  
- ![Screenshoot](https://github.com/adhitya1978/Pocket-file-generator/blob/master/Snapshoot.png)
+ ![Screenshoot](https://github.com/adhitya1978/Pocket-file-generator/blob/master/snapshoot.png)
  
  Generate Unique structure of file. Snapshoot only show the ui and source is full or maybe not. 
 
