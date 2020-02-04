@@ -42,19 +42,6 @@ namespace License_Tems
         {
             get 
             {
-                /**
-                byte[] deviceUniqueID = System.Text.ASCIIEncoding.ASCII.GetBytes(deviceid);
-                StringBuilder builder = new StringBuilder(deviceUniqueID.Length * 3);
-                for (int i = 0; i < deviceUniqueID.Length; i++)
-                {
-                    if ((i > 0) && ((i % 4) == 0))
-                    {
-                        builder.Append('-');
-                    }
-                    builder.AppendFormat(null, "{0:X2}", new object[] { deviceUniqueID[i] });
-                }
-                return builder.ToString();
-                **/
                 return deviceid;
             }
         }
